@@ -1,7 +1,7 @@
-Libraries used -- pandas, numpy, matplotlib, seaborn, sklearn
-Technical Language and Skills used -- Python, Web Scraping, Sentiment Analysis
+** Libraries used ** -- pandas, numpy, matplotlib, seaborn, sklearn
+** Technical Language and Skills used ** -- Python, Web Scraping, Sentiment Analysis
 
-Utilizing the Titanic Survival Dataset for Machine Learning Analysis
+## Utilizing the Titanic Survival Dataset for Machine Learning Analysis
 
 ### Introduction
 In this project, we aim to analyze the Titanic Survival dataset obtained from Kaggle. Our goal is to predict survival outcomes based on various features such as age, gender, ticket class, etc. We'll start by conducting data cleaning, organizing the dataset, and selecting appropriate features for machine learning model suitability. Subsequently, we'll delve into exploratory data analysis (EDA) to gain insights into the dataset's characteristics. Finally, we'll apply several classification models including Logistic Regression, Support Vector Machine (SVM), Random Forest, Decision Tree, and K-Nearest Neighbors (KNN) to predict survival and evaluate their accuracy.
