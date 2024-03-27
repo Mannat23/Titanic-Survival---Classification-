@@ -1,6 +1,6 @@
 ** Libraries used ** -- pandas, numpy, matplotlib, seaborn, sklearn
 
-** Technical Language and Skills used ** -- Python, Web Scraping, Sentiment Analysis, Machine Learning 
+** Technical Language and Skills used ** -- Python, EDA, Feature Selection, Machine Learning, Classification Models.
 
 ## Utilizing the Titanic Survival Dataset for Machine Learning Analysis
 
